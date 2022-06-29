@@ -31,6 +31,10 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		inherit: true,
 		isNonstandard: "Unobtainable",
 	},
+	flamethrower: {
+		inherit: true,
+		basePower: 10,
+	},
 	fierywrath: {
 		inherit: true,
 		isNonstandard: "Unobtainable",
