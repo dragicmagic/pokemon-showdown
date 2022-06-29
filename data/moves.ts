@@ -5115,7 +5115,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	flamethrower: {
 		num: 53,
 		accuracy: 100,
-		basePower: 90,
+		basePower: 10,
 		category: "Special",
 		name: "Flamethrower",
 		pp: 15,
